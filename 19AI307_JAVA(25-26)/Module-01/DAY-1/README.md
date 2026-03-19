@@ -30,8 +30,8 @@ To write a Java program that uses different assignment, arithmetic, bitwise, and
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: PRIYADHARSHINI S
-RegisterNumber: 212223240129
+Developed by: MAHALAKSHMI R
+RegisterNumber: 212223230117
 
 import java.util.*;
 public class Main{
